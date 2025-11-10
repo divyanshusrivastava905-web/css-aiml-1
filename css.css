@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin-top: 50px;
+    border: 6px solid;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.outer-box {
+    background-color: blue;
+    border: 5px solid black;
+    padding: 30px;      /* Padding inside the border */
+    margin: 20px auto;  /* Margin around the box */
+    width: 400px;
+}
+
+.inner-box {
+    background-color: yellow;
+    padding: 40px;      /* Inner padding */
+    border: 2px solid black;
+    font-weight: bold;
+}
