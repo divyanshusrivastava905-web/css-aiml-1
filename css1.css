@@ -1,0 +1,26 @@
+body {
+            font-family: Arial, sans-serif;
+        }
+        .block-example {
+            border: 2px solid #888;
+            padding: 20px;
+            max-width: 600px;
+            margin: 40px auto;
+            background-color: #f9f9f9;
+        }
+        h2 {
+            font-size: 1.5em;
+            color: #333;
+        }
+        .heading {
+            background-color: #d4ecfa;
+            padding: 10px;
+            font-size: 2em;
+            font-weight: bold;
+        }
+        .description {
+            background-color: #ddf8d7;
+            padding: 10px;
+            color: #276730;
+            margin-top: 10px;
+        }
